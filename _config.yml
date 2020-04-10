@@ -5,7 +5,7 @@ header-img: img/wanwan.jpeg
 email: alicewang7887@gmail.com
 description: "day day up"
 keyword: "JYao, JYao Blog, github探索之旅, JYao"
-url: "http://Aliceww7.github.io"          # your host, for absolute URL
+url: "https://Aliceww7.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Aliceww7/Aliceww7.github.io.git" # you code repository
 
